@@ -27,25 +27,25 @@ p {
 header {
   position: fixed;
   background: #076;
-  height: 84px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   width: 100%;
 }
 
 nav {
   max-width: 1219px;
   margin: auto;
+  padding-top: 5px;
 }
 
 .logo {
   float: left;
   padding-left: 55px;
-  padding-top: 20px;
 }
 
 .menu {
   float: right;
   padding-right: 55px;
-  padding-top: 28px;
 }
 
 ul li {
