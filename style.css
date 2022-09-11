@@ -38,8 +38,13 @@ nav {
   padding-top: 5px;
 }
 
-.logo {
+header img {
   float: left;
+}
+
+.logo {
+  max-width: 1219px;
+  margin: auto;
 }
 
 .menu {
